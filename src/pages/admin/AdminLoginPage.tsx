@@ -91,13 +91,13 @@ const AdminLoginPage = () => {
             </Button>
           </form>
 
-          <div className="mt-6 p-4 rounded-lg bg-muted">
+          {/* <div className="mt-6 p-4 rounded-lg bg-muted">
             <p className="text-sm text-muted-foreground text-center">
               <strong>Demo Credentials:</strong><br />
               Email: admin@sradarshhostel.com<br />
               Password: admin123
             </p>
-          </div>
+          </div> */}
         </div>
 
         <p className="text-center mt-6 text-sm text-muted-foreground">
