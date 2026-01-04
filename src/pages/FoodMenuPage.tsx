@@ -11,6 +11,7 @@ interface DayMenu {
   dinner: MealItem[];
 }
 
+
 const weeklyMenu: DayMenu[] = [
   {
     day: "Monday",
