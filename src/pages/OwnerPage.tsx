@@ -27,14 +27,14 @@ const OwnerPage = () => {
               <div className="space-y-6">
                 <div className="aspect-[3/4] rounded-xl overflow-hidden shadow-card-hover">
                   <img
-                    src={ownerImage}
+                    src="./rakeshji.jpeg"
                     alt="Mr. Suresh Reddy"
                     className="w-full h-full object-cover"
                   />
                 </div>
                 <div className="text-center md:text-left">
                   <h2 className="text-2xl font-display font-bold text-foreground">
-                    Mr. Suresh Reddy
+                    Mr. Rakesh Choudhary
                   </h2>
                   <p className="text-accent font-medium">Founder & Managing Director</p>
                 </div>
@@ -44,14 +44,14 @@ const OwnerPage = () => {
                     className="flex items-center gap-3 p-3 rounded-lg bg-card border border-border hover:border-primary transition-colors"
                   >
                     <Phone className="w-5 h-5 text-primary" />
-                    <span className="text-foreground">+91 98765 43210</span>
+                    <span className="text-foreground">+91 8107456200</span>
                   </a>
                   <a
-                    href="mailto:owner@sradarshhostel.com"
+                    href="mailto:sagarlakhar718@gmail.com"
                     className="flex items-center gap-3 p-3 rounded-lg bg-card border border-border hover:border-primary transition-colors"
                   >
                     <Mail className="w-5 h-5 text-primary" />
-                    <span className="text-foreground">owner@sradarshhostel.com</span>
+                    <span className="text-foreground">sagarlakhar718@gmail.com</span>
                   </a>
                 </div>
               </div>
@@ -62,12 +62,12 @@ const OwnerPage = () => {
                   <h3 className="text-xl font-semibold text-foreground mb-4">About</h3>
                   <div className="space-y-4 text-muted-foreground leading-relaxed">
                     <p>
-                      Mr. Suresh Reddy, a retired government officer, founded S.R. Adarsh Hostel 
-                      in 2010 with a simple yet powerful vision: to provide students with a safe, 
+                      Mr. Rakesh choudhary, founded S.R. Adarsh Hostel 
+                      in 2024 with a simple yet powerful vision: to provide students with a safe, 
                       affordable, and nurturing home away from home.
                     </p>
                     <p>
-                      With over 14 years of experience in student accommodation, Mr. Reddy has 
+                      With over 2 years of experience in student accommodation, Mr. Choudhary has 
                       personally overseen the development of the hostel, ensuring that every 
                       student receives the care and facilities they need to succeed in their 
                       academic journey.
@@ -96,7 +96,7 @@ const OwnerPage = () => {
                     are here to support you every step of the way."
                   </blockquote>
                   <p className="mt-4 text-foreground font-semibold">
-                    — Mr. Suresh Reddy
+                    — Mr. Rakesh Choudhary
                   </p>
                 </div>
 
